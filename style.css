@@ -45,8 +45,10 @@ body {
 }
 
 .options-container {
+  text-align: center;
   border-radius: 10px;
   border: 1px solid white;
+  gap: 20px;
   padding: 10px;
 
 
@@ -71,7 +73,11 @@ button {
 input {
   border-radius: 5px;
   text-align: center;
-   font-size: 1.8rem; 
+   font-size: 1.8rem;
+}
+
+#Node{
+  width: 44%;
 }
 
 select {

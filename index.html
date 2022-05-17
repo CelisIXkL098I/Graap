@@ -29,17 +29,17 @@
       <div class="options-container">
         <div class="option">
           <button onclick="addNode()">Agregar nodo</button>
-          <button onclick="Delete()">Eliminar nodo</button>
-          <input autocomplete="off" type="text" placeholder="Node" id="Node"/>        
+          <input autocomplete="off" type="text" placeholder="Ingrese el nombre del nodo" id="Node"/>
+          <button onclick="Delete()">Eliminar nodo</button>        
         </div>
         <div class="option">
           <button onclick="addEdge()">Conectar</button>
+          <input autocomplete="off" type="text" placeholder="Desde donde" id="From"/>
+          <input autocomplete="off" type="text" placeholder="Hasta donde" id="To"/>
           <button onclick="disconnect()">Desconectar</button>
-          <input autocomplete="off" type="text" placeholder="From" id="From"/>
-          <input autocomplete="off" type="text" placeholder="To" id="To"/>
-          <input autocomplete="off" type="text" placeholder="Texto (opcional)" id="Text"/>
+          <input autocomplete="off" type="text" placeholder="Peso(opcional)" id="Text"/>       
           <select id="Arrow">
-            <option value="...">Select...</option>
+            <option value="...">Flechas..</option>
             <option value="to">To</option>
             <option value="middle">Middle</option>
             <option value="from">From</option>
