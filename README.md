@@ -3,8 +3,8 @@
 - this project was created for discrete math class.
 - Systems Engineering universidad de investigacion y desarrollo (UDI).
 - Creator for Mateo Fonseca (https://twitter.com/MatheoFonck73).
-- Creator for Cristian Celis.
-- Creator for Michael Suescun.
+- Creator for Cristian Celis (https://www.facebook.com/cristian.c.celis).
+- Creator for Michael Suescun (https://github.com/MichaelSuescun).
 
 
 ### Programming Languages
@@ -21,7 +21,7 @@
 - vis-network
 
 # Home screen
-![](https://imagizer.imageshack.com/img922/3359/AGLgEm.png)
+![]https://imagizer.imageshack.com/img923/210/qWAUXY.png
 
 ### Add Button
 - add graphs 
