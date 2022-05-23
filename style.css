@@ -68,7 +68,7 @@ button {
   background-color: rgb(244, 88, 71);
   border-radius: 10px;
   width: 40%;
-  height: 20%;
+  height: 25%;
   font-size: 1rem;
 }
 
@@ -76,15 +76,15 @@ input {
   border-radius: 5px;
   text-align: center;
   width: 15%;
-  height: 15%;
+  height: 25%;
   font-size: 1rem;
 }
 
 select {
   border-radius: 5px;
   text-align: center; 
-  width: 25%;
-  height: 20%;
+  width: 30%;
+  height: 25%;
   font-size: 1rem;
 }
 
