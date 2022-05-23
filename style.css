@@ -75,7 +75,7 @@ button {
 input {
   border-radius: 5px;
   text-align: center;
-  width: 15%;
+  width: 16%;
   height: 25%;
   font-size: 1rem;
 }
@@ -93,10 +93,10 @@ select {
 }
 
 #addEdge{
-  width: 28%;
+  width: 27%;
 }
 #disconnect{
-  width: 38%;
+  width: 37%;
 }
 
 
