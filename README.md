@@ -21,19 +21,21 @@
 - vis-network
 
 # Home screen
-![]https://imagizer.imageshack.com/img923/210/qWAUXY.png
+![img](https://imagizer.imageshack.com/img923/210/qWAUXY.png)
 
-### Add Button
-- add graphs 
-- add connections 
+### Agregar nodo Button
+- add node 
 
-### Delete Button
-- delete graphs
+### Eliminar nodo Button
+- delete node
 
-### Disconnect Button
-- disconnect graphs 
+### Conectar Button
+- connect node 
 
-### Clear Button
+### Desconectar Button
+- disconnect node 
+
+### Limpiar campos Button
 - clear inputs
 
 ### END
