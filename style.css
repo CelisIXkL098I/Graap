@@ -67,7 +67,7 @@ button {
   color: white;
   background-color: rgb(244, 88, 71);
   border-radius: 10px;
-  width: 40%;
+  width: 39%;
   height: 25%;
   font-size: 1rem;
 }
@@ -93,10 +93,10 @@ select {
 }
 
 #addEdge{
-  width: 27%;
+  width: 26%;
 }
 #disconnect{
-  width: 37%;
+  width: 36%;
 }
 
 
